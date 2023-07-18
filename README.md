@@ -42,7 +42,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📊 my github stats:
-![](https://github-readme-stats.vercel.app/api?username=hemcodez&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hemcodez&theme=merko&hide_border=true)
 
 ### ᓚᘏᗢ ♡ ⋯ have a peachy day
