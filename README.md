@@ -1,5 +1,5 @@
 <p align="center">
-🐸🍵 ⌦ ❝ ｗｅｌｃｏｍｅ ・ ｔｏ ・ ｍｙ ・ ｐｒｏｆｉｌｅ❞
+ ❝ ｗｅｌｃｏｍｅ ・ ｔｏ ・ ｍｙ ・ ｐｒｏｆｉｌｅ❞
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Ellloooo! my name is Annmarie, I'm a self-taught software developer who enjoys tech, reading, gaming, and music. I also think jellyfish are pretty rad creatures and that horror movies are fireeee.🔥
+🐸🍵 Ellloooo! my name is Annmarie, I'm a self-taught software developer who enjoys tech, reading, gaming, and music. I also think jellyfish are pretty rad creatures and that horror movies are fireeee.🔥
 </p>
 
 <p align="center">
