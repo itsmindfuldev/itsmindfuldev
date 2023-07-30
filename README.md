@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-🐸🍵 Hello! my name is Annmarie, I'm a self-taught software developer who enjoys tech, reading, and music. I also think jellyfish are pretty rad creatures and that horror movies are cool🔥
+🐸🍵 Hello! My name is Annmarie, I'm a self-taught software developer who enjoys tech, reading, and music. I also think jellyfish are pretty rad creatures and that horror movies are cool🔥
 </p>
 
 <p align="center">
