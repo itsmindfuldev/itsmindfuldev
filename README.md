@@ -20,8 +20,6 @@
 
 
 ![hemcodez's Stats](https://github-readme-stats.vercel.app/api?username=hemcodez&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-![hemcodez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hemcodez&theme=midnight-purple&hide_border=true)
-
 
 
 ###### ᓚᘏᗢ ♡ ⋯ have a peachy day
