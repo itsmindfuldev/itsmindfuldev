@@ -2,15 +2,7 @@
  ❝ ｗｅｌｃｏｍｅ ・ ｔｏ ・ ｍｙ ・ ｐｒｏｆｉｌｅ❞
 </p>
 
-<!-- <p align="center">
-
-</p>
-
-<p align="center">
-
-</p> -->
-
-
+![hemcodez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemcodez&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
  #### **💻 tech toolbox:**
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&labelColor=black)
@@ -27,10 +19,8 @@
 
 
 
-
-
-
-
+![hemcodez's Stats](https://github-readme-stats.vercel.app/api?username=hemcodez&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![hemcodez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hemcodez&theme=midnight-purple&hide_border=true)
 
 
 
