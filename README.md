@@ -17,8 +17,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23167FFC?style=for-the-badge&logo=figma&logoColor=FD3259&labelColor=black)
 
 
-![hemcodez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemcodez&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-![hemcodez's Stats](https://github-readme-stats.vercel.app/api?username=hemcodez&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![hemcodez's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmindfuldev&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+![hemcodez's Stats](https://github-readme-stats.vercel.app/api?username=itsmindfuldev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 
 ###### ᓚᘏᗢ ♡ ⋯ have a peachy day
